@@ -1,0 +1,40 @@
+mode = "dark"
+
+# baytizzel.dev design tokens: --color-accent, ::selection (accent on background)
+accent = "#ff45c8"
+selection = "#2e2e2e"
+selection_background = "#ff45c8"
+selection_foreground = "#050505"
+muted = "#8c8c8c"
+
+# --color-background, --color-surface, --color-border
+background = "#050505"
+dark_background = "#0c0c0c"
+darker_background = "#080808"
+lighter_background = "#1c1c1c"
+
+# --color-foreground, --color-muted-foreground, --color-faint
+foreground = "#ededed"
+dark_foreground = "#5c5c5c"
+light_foreground = "#bcbcbc"
+bright_foreground = "#ffffff"
+
+# The banner's accent-to-faint gradient, and --color-border-strong
+hyprland_active_border = "rgba(ff45c8ee) rgba(5c5c5cee) 45deg"
+hyprland_inactive_border = "rgb(2e2e2e)"
+
+red = "#e77977"
+yellow = "#e1b75f"
+orange = "#eaa170"
+green = "#83d39f"
+cyan = "#83d4d8"
+blue = "#8aabe6"
+magenta = "#ff45c8"
+brown = "#7e5a45"
+
+bright_red = "#f59c93"
+bright_yellow = "#eed68f"
+bright_green = "#a4e6bf"
+bright_cyan = "#aee7ea"
+bright_blue = "#aec8f7"
+bright_magenta = "#f699da"
